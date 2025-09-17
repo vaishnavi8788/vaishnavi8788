@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Dhobale</h1>
 <h3 align="center">Aspiring Java Developer | Strong in JDBC, MySQL | Passionate about Backend Development</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi8788&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi8788" /> </p>
 
