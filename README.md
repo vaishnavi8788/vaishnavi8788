@@ -1,27 +1,72 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi Dhobale</h1>
-<h3 align="center">Aspiring Java Developer | Strong in JDBC, MySQL | Passionate about Backend Development</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi8788&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi8788" /> </p>
-
-- 🌱 I’m currently learning **Advancejava**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vaishnavi8788](https://github.com/vaishnavi8788)
-
-- 💬 Ask me about **Java, JDBC, MySQL, and OOP Concepts**
-
-- ⚡ Fun fact: **I debug my code faster with coffee ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vaishu__.8788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishu__.8788" height="30" width="40" /></a>
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%20👋,%20I'm%20Vaishnavi&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<h3 align="center">Aspiring Java Full Stack Developer | Passionate about Backend Development</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi8788&show_icons=true&locale=en&layout=compact" alt="vaishnavi8788" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi8788&show_icons=true&locale=en" alt="vaishnavi8788" /></p>
+### 🌐 Connect with me:
+<p align="center">
+  <a href="https://linkedin.com/in/YourLinkedIn" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="dhoblevaishnavi057@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="dhoblevaishnavi057@gmail.com"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi8788&" alt="vaishnavi8788" /></p>
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?userna=vaishnavi8788&color=blue)
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavi8788e&theme=radical&no-frame=false&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi8788&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi8788&theme=highcontrast" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi8788&layout=compact&theme=radical" alt="languages"/>
+</p>
+
+---
+
+### 🛠️ Skills
+- **Languages:** Java, SQL, HTML, CSS, JavaScript  
+- **Frameworks:** Spring Boot, Hibernate  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub, Maven, Eclipse/IntelliJ  
+
+---
+
+### ✍️ Latest Blogs
+#### Dev.to
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+#### Medium
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### ⚡ Fun fact
+I explain Java OOPs concepts using Cricket examples 🏏💻
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer"/>
+</p>
