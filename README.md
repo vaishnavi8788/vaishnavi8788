@@ -36,12 +36,11 @@
 
 
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi8788&show_icons=true&theme=dark)
+![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi8788&show_icons=true&theme=dark)  
 
----
-
+--- 
 ## ✉️ Contact
 
 - Email:dhoblevaishnavi057@gmail.com
