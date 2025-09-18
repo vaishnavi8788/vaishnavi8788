@@ -1,73 +1,111 @@
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%20👋,%20I'm%20Vaishnavi&fontSize=40&fontAlignY=35&animation=twinkling" />
-</p>
+Hi 👋, I'm Vaishnavi Dhobale 
+   A Passionate Java Full Stack Developer from India
+🔭 Currently working on: Exciting full stack projects in the Java ecosystem
 
-<h3 align="center">Aspiring Java Full Stack Developer | Passionate about Backend Development</h3>
+🌱 Learning: Diving deeper into cloud technologies and microservices architecture
 
----
+👨‍💻 All of my projects are available at: My GitHub
 
-### 🌐 Connect with me:
-<p align="center">
-    <a href="dhoblevaishnavi057@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/>
-  </a>
-</p>
+💬 Ask me about: Building scalable web apps with Java, Spring Boot, and modern front-end frameworks
 
----
+📫 How to reach me: dhoblevaishnavi057@gmail.com
+📄 Know about my experiences: LinkedIn
 
-### 📊 GitHub Stats & Activity
+🚀 Connect with me
+vaishnavi8788 dhoblevaishnavi057@gmail.com
 
-<p align="center">
-  <!-- GitHub general stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi8788&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+🛠️ Languages and Tools
+c cplusplus css3 git html5 java javascript mysql nodejs postman
 
-  <!-- GitHub streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi8788&theme=highcontrast" alt="GitHub Streak" />
-</p>
+👩‍💻 About Me
+Hello! I'm a passionate and curious Java Full Stack Developer, building robust applications from front-end to back-end. I love transforming ideas into scalable products using Java, Spring Boot, React, Angular, and cloud technologies.
 
-<p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi8788&layout=compact&theme=radical" alt="Top Languages" />
+🧠 Skills I've Learned So Far
+Backend: Java, Spring Boot, RESTful APIs, Microservices
+Frontend: React, HTML, CSS, JavaScript
+Database: MySQL
+DevOps: Git & GitHub
+Cloud: Basic knowledge of AWS, Azure, Google Cloud
+Soft Skills: Problem Solving, Team Collaboration
+🚀 Still Learning...
+Always exploring new frameworks, best practices. Currently learning advanced containerization and deployment strategies.
 
-  <!-- Profile views -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=vaishnavi8788&color=blue)
-</p>
+⚡ Fun Facts
+I talk to my code more than I talk to people.
+My Java programs have fewer bugs than my real life.
+Coffee + Code = Happiness ☕💻
+Let's connect and grow together!
+A Passionate Java Full Stack Developer from India
+🔭 Currently working on: Exciting full stack projects in the Java ecosystem
 
----
+🌱 Learning: Diving deeper into cloud technologies and microservices architecture
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavi8788&theme=radical&no-frame=false&no-bg=true&margin-w=15" />
-</p>
+👨‍💻 All of my projects are available at: My GitHub
 
----
+💬 Ask me about: Building scalable web apps with Java, Spring Boot, and modern front-end frameworks
 
-### 🛠️ Skills
-- **Languages:** Java, SQL, HTML, CSS, JavaScript  
-- **Frameworks:** Spring Boot, Hibernate  
-- **Databases:** MySQL  
-- **Tools:** Git, GitHub, Maven, Eclipse/IntelliJ  
+📫 How to reach me:dhoblevaishnavi057@gmail.com
 
----
+📄 Know about my experiences: LinkedIn
 
-### ✍️ Latest Blogs
-#### Dev.to
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+🚀 Connect with me
+vaishnavi8788 dhoblevaishnavi057@gmail.com
 
-#### Medium
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+🛠️ Languages and Tools
+c cplusplus css3 git html5 java javascript mysql nodejs postman
 
----
+👩‍💻 About Me
+Hello! I'm a passionate and curious Java Full Stack Developer, building robust applications from front-end to back-end. I love transforming ideas into scalable products using Java, Spring Boot, React, Angular, and cloud technologies.
 
-### ⚡ Fun fact
-I explain Java OOPs concepts using Cricket examples 🏏💻
+🧠 Skills I've Learned So Far
+Backend: Java, Spring Boot, RESTful APIs, Microservices
+Frontend: React, HTML, CSS, JavaScript
+Database: MySQL
+DevOps: Git & GitHub
+Cloud: Basic knowledge of AWS, Azure, Google Cloud
+Soft Skills: Problem Solving, Team Collaboration
+🚀 Still Learning...
+Always exploring new frameworks, best practices. Currently learning advanced containerization and deployment strategies.
 
----
+⚡ Fun Facts
+I talk to my code more than I talk to people.
+My Java programs have fewer bugs than my real life.
+Coffee + Code = Happiness ☕💻
+Let's connect and grow together!
+A Passionate Java Full Stack Developer from India
+🔭 Currently working on: Exciting full stack projects in the Java ecosystem
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer"/>
-</p>
+🌱 Learning: Diving deeper into cloud technologies and microservices architecture
+
+👨‍💻 All of my projects are available at: My GitHub
+
+💬 Ask me about: Building scalable web apps with Java, Spring Boot, and modern front-end frameworks
+
+📫 How to reach me: dhoblevaishnavi057@gmail.ccom
+
+📄 Know about my experiences: LinkedIn
+
+🚀 Connect with me
+vaishnavi8788 dhoblevaishnavi057@gmail.com
+
+🛠️ Languages and Tools
+c cplusplus css3 git html5 java javascript mysql nodejs postman
+
+👩‍💻 About Me
+Hello! I'm a passionate and curious Java Full Stack Developer, building robust applications from front-end to back-end. I love transforming ideas into scalable products using Java, Spring Boot, React, Angular, and cloud technologies.
+
+🧠 Skills I've Learned So Far
+Backend: Java, Spring Boot, RESTful APIs, Microservices
+Frontend: React, HTML, CSS, JavaScript
+Database: MySQL
+DevOps: Git & GitHub
+Cloud: Basic knowledge of AWS, Azure, Google Cloud
+Soft Skills: Problem Solving, Team Collaboration
+🚀 Still Learning...
+Always exploring new frameworks, best practices. Currently learning advanced containerization and deployment strategies.
+
+⚡ Fun Facts
+I talk to my code more than I talk to people.
+My Java programs have fewer bugs than my real life.
+Coffee + Code = Happiness ☕💻
+Let's connect and grow together!
